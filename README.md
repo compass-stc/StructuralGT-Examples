@@ -10,9 +10,3 @@ jupyter notebook
 ```
 
 See [Notebook Basics](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb) and [Running Code](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Running%20Code.ipynb) for tutorials on using Jupyter.
-
-To test the notebooks and ensure that they all run, use:
-
-```bash
-python -m pytest -v --nbval --nbval-lax --ignore=archive/
-```
