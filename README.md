@@ -9,4 +9,4 @@ cd StructuralGT-Examples
 jupyter notebook
 ```
 
-See [Notebook Basics](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb) and [Running Code](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Running%20Code.ipynb) for tutorials on using Jupyter.
+You will need to [install](https://jupyter.org/install) jupyter notebook, if you do not have it already. See their [tutorials](https://jupyter.org/try) if you are new to Jupyter.
