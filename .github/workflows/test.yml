@@ -13,7 +13,7 @@ on:
   # request source branch is in the same repository.
   push:
     branches:
-      - "master"
+      - "main"
 
   # Trigger on request.
   workflow_dispatch:
