@@ -35,7 +35,7 @@ jobs:
       with:
         python-version: ${{ matrix.python-version }}
         mamba-version: "*"
-        channel-priority: strict
+        channel-priority: flexible
         activate-environment: StructuralGT-examples
         environment-file: StructuralGT-examples/environment.yml
     - name: Display StructuralGT version
